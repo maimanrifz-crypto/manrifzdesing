@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Mi página</title>
+</head>
+
+<body>
+
+<h1>Hola</h1>
+
+<p>Esta es mi página web.</p>
+
+<p>Aquí puedo poner información sobre mí.</p>
+
+</body>
+</html>
